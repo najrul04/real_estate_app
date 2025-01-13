@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Hello World</Text>
+      <Text>Hello Bangladesh</Text>
         <Link href="/sign-in">Sign In</Link>
         <Link href="/explore">Explore</Link>
         <Link href="/profile">Profile</Link>
